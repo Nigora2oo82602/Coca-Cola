@@ -1,0 +1,104 @@
+li{
+    margin-left: 80px;
+    font-size: 20px;
+}
+.navbar{
+    width: 100%;
+    height: 8vh;
+}
+.carousel img{
+    border-radius: 15px;
+}
+.h{
+text-align: center;
+position: relative;
+top: 150px;
+}
+.card{
+height: 550px;
+
+}
+
+.card-text{
+font-size: 20px;
+ padding:0px 0px 0px 40px;
+ position: relative;
+ top: -25px;
+}
+.card-title{
+    padding: 40px;
+}
+.b{
+width: 350px;
+border-radius: 20px;
+height: 40px;
+border: 2px solid black;
+background: none;
+position: relative;
+left: 30px;
+
+}
+.card1{
+    
+    position: relative;
+    top: -300px;
+    left: 900px;
+    border-radius: 20px;
+}
+.card1 img {
+    border-radius: 30px;
+    height: 600px;
+    
+
+}
+.card2 img {
+    border-radius: 30px;
+    height: 600px;
+    position: relative;
+    left: 310px;
+    top: -320px;
+
+}
+.text-center{
+    border-radius: 20px;
+}
+.btn{
+    width: 300px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.new1{
+    border-top: 1px solid rgb(255, 255, 255);
+    font-size: 70px;
+    color: white;
+    position: relative;
+    top: -30px;
+}
+.card-body1{
+  
+    background-color: #212529;
+    
+}
+.card11 {
+    color: rgb(255, 255, 255);
+
+}
+.fa-brands {
+    color: white;
+    font-size: 25px;
+    margin-left: 20px;
+    padding: 7px;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    position: relative;
+    left: 400px;
+    top: -230px;
+
+}
+.new2{
+    border-top: 1px solid rgb(255, 255, 255);
+    font-size: 70px;
+    color: white;
+    position: relative;
+    top: -30px;
+}
